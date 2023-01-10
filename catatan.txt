@@ -1,0 +1,9 @@
+website : fishmap.000webhostapp.com
+
+akun admin web asli:
+user : admin
+pass : admin123
+
+akun admin web localhost:
+user : buldut
+pass : snowce
